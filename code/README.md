@@ -1,4 +1,4 @@
-#### PACOTES   # Os pacotes listados abaixo são usados durantes as análises e geração dos gráficos
+#### PACOTES 
 library(shiny)
 library(bslib)
 library(mirt)
